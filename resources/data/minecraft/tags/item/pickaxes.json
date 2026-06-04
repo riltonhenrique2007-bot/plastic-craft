@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "mod_do_plastico:plasticnetheritepickaxe",
+    "mod_do_plastico:plastic_diamond_pickaxe",
+    "mod_do_plastico:plastic_iron_pickaxe",
+    "mod_do_plastico:plasticpicaxe",
+    "mod_do_plastico:plastic_gold_pickaxe",
+    "mod_do_plastico:plastic_stone_pickaxe",
+    "mod_do_plastico:plastic_wooden_pickaxe"
+  ]
+}

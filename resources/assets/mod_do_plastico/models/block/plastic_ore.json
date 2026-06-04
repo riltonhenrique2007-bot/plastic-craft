@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "mod_do_plastico:block/image_14915c8c",
+    "up": "mod_do_plastico:block/image_14915c8c",
+    "north": "mod_do_plastico:block/image_14915c8c",
+    "east": "mod_do_plastico:block/image_14915c8c",
+    "south": "mod_do_plastico:block/image_14915c8c",
+    "west": "mod_do_plastico:block/image_14915c8c",
+    "particle": "mod_do_plastico:block/image_14915c8c"
+  },
+  "render_type": "solid"
+}

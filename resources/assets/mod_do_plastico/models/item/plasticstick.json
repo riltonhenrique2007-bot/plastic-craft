@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "mod_do_plastico:item/image_4292ddd2-removebg-preview"
+  }
+}

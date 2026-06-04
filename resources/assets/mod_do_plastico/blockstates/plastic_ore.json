@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "mod_do_plastico:block/plastic_ore"
+    }
+  }
+}

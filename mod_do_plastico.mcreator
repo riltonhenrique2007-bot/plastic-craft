@@ -1,0 +1,314 @@
+{
+  "mod_elements": [
+    {
+      "name": "PlasticIngot",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "plastic_ingot",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/mod_do_plastico/models/item/plastic_ingot.json",
+          "src/main/java/net/mcreator/moddoplastico/item/PlasticIngotItem.java"
+        ]
+      }
+    },
+    {
+      "name": "PlasticOre",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "plastic_ore",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/moddoplastico/block/PlasticOreBlock.java",
+          "src/main/resources/assets/mod_do_plastico/models/item/plastic_ore.json",
+          "src/main/resources/assets/mod_do_plastico/blockstates/plastic_ore.json",
+          "src/main/resources/data/mod_do_plastico/neoforge/biome_modifier/plastic_ore_biome_modifier.json",
+          "src/main/resources/assets/mod_do_plastico/models/block/plastic_ore.json",
+          "src/main/resources/data/mod_do_plastico/loot_table/blocks/plastic_ore.json",
+          "src/main/resources/data/mod_do_plastico/worldgen/configured_feature/plastic_ore.json",
+          "src/main/resources/data/mod_do_plastico/worldgen/placed_feature/plastic_ore.json"
+        ]
+      }
+    },
+    {
+      "name": "PlasticOreSpawn",
+      "type": "feature",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "plastic_ore_spawn",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/mod_do_plastico/worldgen/configured_feature/plastic_ore_spawn.json",
+          "src/main/resources/data/mod_do_plastico/neoforge/biome_modifier/plastic_ore_spawn_biome_modifier.json",
+          "src/main/resources/data/mod_do_plastico/worldgen/placed_feature/plastic_ore_spawn.json"
+        ]
+      }
+    },
+    {
+      "name": "Plasticstick",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "plasticstick",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/moddoplastico/item/PlasticstickItem.java",
+          "src/main/resources/assets/mod_do_plastico/models/item/plasticstick.json"
+        ]
+      }
+    },
+    {
+      "name": "PlasticWoodenPickaxe",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "plastic_wooden_pickaxe",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/moddoplastico/item/PlasticWoodenPickaxeItem.java",
+          "src/main/resources/assets/mod_do_plastico/models/item/plastic_wooden_pickaxe.json"
+        ]
+      }
+    },
+    {
+      "name": "PlasticWoodenPickaxeRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "plastic_wooden_pickaxe_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/mod_do_plastico/recipe/plastic_wooden_pickaxe_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "PlasticStickRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "plastic_stick_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/mod_do_plastico/recipe/plastic_stick_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "PlasticStonePickaxe",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "plastic_stone_pickaxe",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/mod_do_plastico/models/item/plastic_stone_pickaxe.json",
+          "src/main/java/net/mcreator/moddoplastico/item/PlasticStonePickaxeItem.java"
+        ]
+      }
+    },
+    {
+      "name": "PlasticStonePickaxeRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "plastic_stone_pickaxe_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/mod_do_plastico/recipe/plastic_stone_pickaxe_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "PlasticIronPickaxe",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "plastic_iron_pickaxe",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/mod_do_plastico/models/item/plastic_iron_pickaxe.json",
+          "src/main/java/net/mcreator/moddoplastico/item/PlasticIronPickaxeItem.java"
+        ]
+      }
+    },
+    {
+      "name": "PlasticIronPickaxeRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "plastic_iron_pickaxe_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/mod_do_plastico/recipe/plastic_iron_pickaxe_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "PlasticDiamondPickaxe",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "plastic_diamond_pickaxe",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/mod_do_plastico/models/item/plastic_diamond_pickaxe.json",
+          "src/main/java/net/mcreator/moddoplastico/item/PlasticDiamondPickaxeItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Plasticnetheritepickaxe",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "plasticnetheritepickaxe",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/moddoplastico/item/PlasticnetheritepickaxeItem.java",
+          "src/main/resources/assets/mod_do_plastico/models/item/plasticnetheritepickaxe.json"
+        ]
+      }
+    },
+    {
+      "name": "PlasticDiamondPickaxeRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "plastic_diamond_pickaxe_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/mod_do_plastico/recipe/plastic_diamond_pickaxe_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "PlasticNetheritePickaxeRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "plastic_netherite_pickaxe_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/mod_do_plastico/recipe/plastic_netherite_pickaxe_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "PlasticGoldPickaxe",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "plastic_gold_pickaxe",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/moddoplastico/item/PlasticGoldPickaxeItem.java",
+          "src/main/resources/assets/mod_do_plastico/models/item/plastic_gold_pickaxe.json"
+        ]
+      }
+    },
+    {
+      "name": "PlasticGoldPickaxeRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "plastic_gold_pickaxe_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/mod_do_plastico/recipe/plastic_gold_pickaxe_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Plasticpicaxe",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "plasticpicaxe",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/moddoplastico/item/PlasticpicaxeItem.java",
+          "src/main/resources/assets/mod_do_plastico/models/item/plasticpicaxe.json"
+        ]
+      }
+    },
+    {
+      "name": "PLASTICPICAXECRAFT",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "plasticpicaxecraft",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/mod_do_plastico/recipe/plasticpicaxecraft.json"
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "tag_elements": {
+    "BLOCKS:minecraft:mineable/pickaxe": [
+      "~CUSTOM:PlasticOre"
+    ],
+    "ITEMS:minecraft:pickaxes": [
+      "~CUSTOM:Plasticpicaxe",
+      "~CUSTOM:PlasticGoldPickaxe",
+      "~CUSTOM:Plasticnetheritepickaxe",
+      "~CUSTOM:PlasticDiamondPickaxe",
+      "~CUSTOM:PlasticIronPickaxe",
+      "~CUSTOM:PlasticStonePickaxe",
+      "~CUSTOM:PlasticWoodenPickaxe"
+    ]
+  },
+  "tab_element_order": {},
+  "language_map": {
+    "en_us": {
+      "item.mod_do_plastico.plastic_ingot": "Plastic Ingot",
+      "block.mod_do_plastico.plastic_ore": "Plastic Ore",
+      "item.mod_do_plastico.plasticstick": "Plastic stick",
+      "item.mod_do_plastico.plastic_wooden_pickaxe": "Plastic Wooden Pickaxe",
+      "item.mod_do_plastico.plastic_stone_pickaxe": "Plastic Stone Pickaxe",
+      "item.mod_do_plastico.plastic_iron_pickaxe": "Plastic Iron Pickaxe",
+      "item.mod_do_plastico.plastic_diamond_pickaxe": "Plastic Diamond Pickaxe",
+      "item.mod_do_plastico.plasticnetheritepickaxe": "Plastic netherite pickaxe",
+      "item.mod_do_plastico.plastic_gold_pickaxe": "Plastic Gold Pickaxe",
+      "item.mod_do_plastico.plasticpicaxe": "Plasticpicaxe"
+    }
+  },
+  "metadata": {
+    "files": [
+      "src/main/java/net/mcreator/moddoplastico/init/ModDoPlasticoModBlocks.java",
+      "src/main/java/net/mcreator/moddoplastico/init/ModDoPlasticoModItems.java",
+      "src/main/resources/META-INF/neoforge.mods.toml",
+      "src/main/resources/pack.mcmeta",
+      "src/main/java/net/mcreator/moddoplastico/init/ModDoPlasticoModTabs.java",
+      "src/main/java/net/mcreator/moddoplastico/ModDoPlasticoMod.java",
+      "src/main/resources/META-INF/accesstransformer.cfg"
+    ]
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "mod_do_plastico",
+    "modName": "mod do plastico",
+    "version": "1.0.7",
+    "description": "my mod",
+    "author": "riquelme",
+    "websiteURL": "https://www.youtube.com/@roblox.coutrballs.oficial",
+    "license": "MIT License",
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "neoforge-1.21.1",
+    "credits": "no credits",
+    "modElementsPackage": "net.mcreator.moddoplastico"
+  },
+  "mcreatorVersion": 202600114619
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "mod_do_plastico:item/gemini_generated_image_rcvsnqrcvsnqrcvs-removebg-preview"
+  }
+}
